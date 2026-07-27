@@ -66,15 +66,19 @@ in this one attackers manipulate transaction data to evade fraud detection, or i
 *Example:* fraudsters alter transaction amounts just below reporting thresholds to bypass AML algorithms
 ### 2. Insecure APIs & Cloud Misconfiguration
 weakly secured APIs or exposed cloud storage lead to credential theft and data breaches aka the #1 cause of financial data leaks.  
+
 *Example:* an exposed S3 bucket leaks millions of customer records
 ### 3. Deepfake & Identity Spoofing
 we saw many many cases that used deep fake to steal data or even do worse ( well there's nothing worst than stealing data), so in here AI-generated voice/video impersonates executives to authorize fraudulent transactions or bypass biometric authentication.  
+
 *Example:* a deepfake CEO voice calls a subordinate and authorizes a $10M wire transfer
 ### 4. Data Contamination
 corrupting training or operational data pipelines to misallocate funds, distort risk assessments, or manipulate portfolio recommendations.  
+
 *Example:* poisoned market data causes an algorithmic trading bot to make bad trades 
 ### 5. Third-Party & Systemic Risk
-a compromised vendor (data provider, cloud service) or a cyber incident propagating through interconnected fintech ecosystems creates single points of failure.  
+a compromised vendor (data provider, cloud service) or a cyber incident propagating through interconnected fintech ecosystems creates single points of failure. 
+
 *Example:* a breach at a major cloud provider takes down multiple banks simultaneously
 **golden advice :** a compromised vendor is a compromised company (this is a NAUR's quote, do not take it seriously)
 
@@ -273,6 +277,8 @@ AI systems operate at an unprecedented scale. They process enormous amounts of d
 ### But why learn AI hacking?
 
 I recently watched a video on this topic, and one idea really stuck with me: **AI hacking feels like the early days of web hacking.**
+
+![Banner](../images/havij.jpg)
 
 The field is still young, New vulnerabilities are being discovered, defenses are still evolving, and there's plenty of room for research and creativity. It feels fresh, exciting, and full of opportunities for anyone who enjoys exploring how systems work and how they can fail
 
