@@ -1,9 +1,5 @@
 # Day 01 
 
-Today's reading focuses on how Artificial Intelligence is transforming critical sectors such as finance, healthcare, and autonomous vehicles, while introducing the security, privacy, and governance challenges that come with it.
-
----
-
 ## AI in Finance
 
 * **Intelligent Financial System: How AI is Transforming Finance**
