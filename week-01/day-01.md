@@ -77,3 +77,32 @@ corrupting training or operational data pipelines to misallocate funds, distort 
 ### 5. Third-Party & Systemic Risk
 a compromised vendor (data provider, cloud service) or a cyber incident propagating through interconnected fintech ecosystems creates single points of failure.  
 *Example:* a breach at a major cloud provider takes down multiple banks simultaneously
+**golden advice :** a compromised vendor is a compromised company (this is a NAUR's quote, do not take it seriously)
+
+# Threat Profile: Healthcare Industry
+
+**intro**
+Healthcare has always been data-intensive from paper charts to electronic health records (EHRs), today AI is transforming diagnosis, treatment, and hospital operations. But unlike finance, where the stakes are money, healthcare stakes are human lives!
+
+The healthcare sector faces a unique convergence of challenges: the sensitivity of patient data, the life-critical nature of clinical decisions, and increasingly sophisticated cyberattacks, AI adoption has become "widespread at tremendous speed and scale," making security governance an urgent priority 
+
+Cyber safety is patient safety 
+
+```see how noble cyber security is ?```
+
+**key application area**
+AI is deployed across four critical functions that i call (wait i hope you're not taking those random abreviations seriously) 
+
+### 1. Diagnostics & Imaging
+
+well AI can assists doctors in detecting diseases from medical images like: 
+
+1. Radiology (X-ray, MRI, CT scan analysis)
+
+2. Pathology (cancer cell detection)
+
+3. Dermatology and ophthalmology screening
+
+how cool!
+
+### 2. Clinical Documentation & Decision Support
