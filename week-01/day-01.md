@@ -90,7 +90,7 @@ Cyber safety is patient safety
 
 ```see how noble cyber security is ?```
 
-**key application area**
+## key application area
 AI is deployed across four critical functions that i call (wait i hope you're not taking those random abreviations seriously) 
 
 ### 1. Diagnostics & Imaging
@@ -106,3 +106,67 @@ well AI can assists doctors in detecting diseases from medical images like:
 how cool!
 
 ### 2. Clinical Documentation & Decision Support
+
+AI helps doctors spend less time on paperwork and more time with patients.
+
+1. EHR summarization (condensing patient histories)
+
+2. Clinical note generation (auto writing visit summaries)
+
+3. Triage assistance (prioritizing urgent cases)
+
+4. Multilingual patient communication (translating for non english speakers)
+
+### Monitoring & Patient Care
+AI watches over patients 24/7—something humans can't do.
+
+1. Remote patient monitoring (wearables like smartwatches)
+
+2. ICU early warning systems (predicting patient deterioration)
+
+3. Chronic disease management (diabetes, heart failure)
+
+4. fall detection for elderly patients
+
+basically AI is the ultimate night shift worker (i can finally sleep, who lied to you?)
+
+### Drug Discovery & Personalized Medicine
+AI accelerates finding new treatments and matching them to specific patients.
+
+1. Genomic analysis (understanding your DNA) ```this one is my fav```
+
+2. Drug repurposing (finding new uses for existing drugs)
+
+3. Clinical trial matching (finding the right patients for studies)
+
+4. Treatment recommendation systems
+
+## what Attackers Want
+same 4 reasons as finance but with a healthcare twist
+you know ransomeware payements are kinda higher cuz : 
+to save lives faster <=> you pay higher
+
+## who attacks
+same actors as mentioned in the finance industry threat profile
+
+## Top Threats
+### 1. Data Poisoning of Diagnostic Models
+attackers inject corrupted training data to make AI models consistently wrong
+### 2. Adversarial Attacks on Medical Imaging
+attackers add tiny changes to medical images that humans can't see but AI gets confused by.
+*Example*: subtle noise added to a lung X-ray causes the AI to miss cancer detection, the image looks normal to doctors but AI says "all clear" when it shouldn't
+### 3. Ransomware on Hospital Infrastructure
+attackers encrypt hospital systems and demand payment, often hitting critical care (and then you should pay)
+### 4. Patient Data Breaches
+hackers steal PHI (Protected Health Information) to sell, commit fraud, or blackmail.
+*Example*: a hacked EHR system exposes 50,000 patient records, including mental health histories, HIV status, and genetic data
+### 5. AI Misdiagnosis Due to Model Drift
+models get worse over time as patient populations change, without retraining obviously.
+### 6. Agentic AI Attacks (The New Kid on the Block)
+cybercriminals weaponize AI agents to carry out sophisticated attacks automatically.
+*Example*: a threat actor used Claude (Anthropic's LLM) to extract data from 17 organizations including healthcare,using **vibe hacking** (interacting with the chatbot in real time during attacks)
+
+a vibe hacker can be problematic sometimes, they don't just play ctfs trust me
+
+# Threat Profile: Automotive Industry
+
