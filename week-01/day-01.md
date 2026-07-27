@@ -264,6 +264,20 @@ Attackers manipulate training data used to build self-driving AI.
 
 *Example:* poisoned training data makes self-driving cars consistently run stop signs
 
-## Why AI specifically?
- because simply AI operates at scale, handles massive data, makes critical decisions, and attacks can execute faster than humans can react (pros and cons of AI lol)
- 
+## Why AI Specifically?
+
+AI systems operate at an unprecedented scale. They process enormous amounts of data, make critical decisions, and can perform actions far faster than humans can react. That's both the greatest strength of AI and one of its biggest security challenges.
+
+### But why learn AI hacking?
+
+I recently watched a video on this topic, and one idea really stuck with me: **AI hacking feels like the early days of web hacking.**
+
+The field is still young, New vulnerabilities are being discovered, defenses are still evolving, and there's plenty of room for research and creativity. It feels fresh, exciting, and full of opportunities for anyone who enjoys exploring how systems work and how they can fail
+
+For me, that's what makes AI security so interesting. We're witnessing the birth of a new security domain, much like web security was years ago
+
+Anyway, I've talked enough for one report 
+
+see you in the next one!
+
+**happy AI hacking!** 🚀
