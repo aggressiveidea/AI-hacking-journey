@@ -118,7 +118,7 @@ AI helps doctors spend less time on paperwork and more time with patients.
 4. Multilingual patient communication (translating for non english speakers)
 
 ### Monitoring & Patient Care
-AI watches over patients 24/7—something humans can't do.
+AI watches over patients 24/7, something humans can't do.
 
 1. Remote patient monitoring (wearables like smartwatches)
 
