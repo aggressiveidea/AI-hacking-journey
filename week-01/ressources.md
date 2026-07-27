@@ -4,4 +4,5 @@ A Review of Artificial Intelligence in Finance: Driving the Next Wave of Industr
 https://ieeexplore.ieee.org/document/11252894
 Artificial intelligence and cybersecurity in healthcare:https://ebooks.mpdl.mpg.de/ebooks/Record/EB002269735
 Health Sector Publishes Framework A.I. Cybersecurity Governance: https://healthsectorcouncil.org/health-sector-publishes-framework-a-i-cybersecurity-governance/
-SoK: Privacy-aware LLM in Healthcare: Threat Model, Privacy Techniques, Challenges and Recommendations: 
+SoK: Privacy-aware LLM in Healthcare: Threat Model, Privacy Techniques, Challenges and Recommendations: https://ar5iv.labs.arxiv.org/html/2601.10004
+Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats: https://ar5iv.labs.arxiv.org/html/2512.17041

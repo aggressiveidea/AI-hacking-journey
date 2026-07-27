@@ -170,3 +170,33 @@ a vibe hacker can be problematic sometimes, they don't just play ctfs trust me
 
 # Threat Profile: Automotive Industry
 
+Cars aren't just cars anymore, they're data centers on wheels! Modern vehicles have 100+ Electronic Control Units (ECUs), millions of lines of code, and are increasingly connected to the internet, cloud services, and each other 
+Autonomous driving, connected car features, and AI-powered systems have turned the automotive industry into a prime target for cyberattacks
+unlike finance (money) and healthcare (lives), automotive attacks can cause physical harm AND financial loss simultaneously (it combines both)
+
+## Key Application Areas
+### 1. Autonomous Driving (ADAS & ADS)
+AI powers self-driving and driver-assistance features .
+
+1. Lane keeping assist
+
+2. Adaptive cruise control
+
+3. Automatic emergency braking
+
+4. Full self-driving (FSD) capabilities
+
+5. Automated Driving Systems (ADS) lvl 3 and higher 
+### 2. Predictive Maintenance
+
+AI predicts when parts will fail before they do
+
+1. Engine health monitoring
+
+2. Battery degradation prediction
+
+3. Tire pressure and wear analysis
+
+4. Brake system diagnostics
+
+### 3. Connected Car Services
