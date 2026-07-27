@@ -1,8 +1,8 @@
-in this first week we will understand the AI security landscape, build a basic AI system, and immediately break it to think like an attacker!
-
 ![Banner](../images/banner.jpg)
 
-day 01 will cover some theory aspects only 
+in this first week we will understand the AI security landscape, build a basic AI system, and immediately break it to think like an attacker!
+
+**day 01** will cover some theory aspects only 
 
 in the first day i wanted to understand the difference between each sector when implementing AI because nowadays all feilds are witnessing a sort of race condition ! no company wants to be left behind, and AI is the key 
 
