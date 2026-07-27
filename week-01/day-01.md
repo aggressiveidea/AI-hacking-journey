@@ -53,9 +53,6 @@ attackers, attack AI for 4 main reasons :
 4. **Espionage:** Steal competitive intelligence or national security data (especially nation states).
 
 
-## Why AI specifically?
- because simply AI operates at scale, handles massive data, makes critical decisions, and attacks can execute faster than humans can react (pros and cons of AI lol)
-
 ## who attacks ??
 well your next question is obviously, who attacks ? 
 i know that i talked about bad actors only like nation states, cyber criminals, insiders and competitors but also some heros (good people)
@@ -175,8 +172,10 @@ Autonomous driving, connected car features, and AI-powered systems have turned t
 unlike finance (money) and healthcare (lives), automotive attacks can cause physical harm AND financial loss simultaneously (it combines both)
 
 ## Key Application Areas
+
 ### 1. Autonomous Driving (ADAS & ADS)
-AI powers self-driving and driver-assistance features .
+
+AI powers self-driving and driver-assistance features 
 
 1. Lane keeping assist
 
@@ -184,9 +183,10 @@ AI powers self-driving and driver-assistance features .
 
 3. Automatic emergency braking
 
-4. Full self-driving (FSD) capabilities
+4. Full self driving (FSD) capabilities
 
 5. Automated Driving Systems (ADS) lvl 3 and higher 
+
 ### 2. Predictive Maintenance
 
 AI predicts when parts will fail before they do
@@ -200,3 +200,70 @@ AI predicts when parts will fail before they do
 4. Brake system diagnostics
 
 ### 3. Connected Car Services
+
+AI powers infotainment and connectivity features 
+
+1. voice assistants (like Alexa in cars), vulnerable to prompt injection attacks 
+
+2. Navigation and traffic prediction
+
+3. OTA (Over-The-Air) software updates
+
+4. Smartphone integration
+
+### 4. V2X Communication (Vehicle-to-Everything)
+
+AI enables cars to communicate with everything around them 
+
+1. V2V: Car-to-car communication (avoiding collisions)
+
+2. V2I: Car-to-infrastructure (traffic lights, road signs)
+
+3. V2P: Car-to-pedestrian
+
+4. V2N: Car-to-network (cloud updates)
+
+### 5.Manufacturing & Supply Chain
+
+AI optimizes production and logistics
+
+1. Quality control (defect detection)
+
+2. Robot automation
+
+3. Supply chain optimization
+
+## who Attacks?
+
+same as other sectors but we will also have some new actors like : car thieves and terrorists, yes terrorists can weaponize those cars after all
+
+## Top Threats
+
+### 1. Remote Vehicle Takeover
+Attackers exploit vulnerabilities to control critical vehicle systems remotely.
+
+> **Real Incident:** Researchers hacked a Jeep Cherokee in 2015—remotely controlling AC, radio, windshield wipers, brakes, and steering
+
+### 2. OTA Update Tampering
+Attackers intercept or corrupt software updates to install malware.
+
+*Example:* a malicious update pushes ransomware to millions of cars overnight
+
+### 3. Sensor Spoofing
+Attackers physically manipulate sensor inputs to fool AI decision-making.
+
+*Example:* fake traffic signs cause autonomous cars to make dangerous decisions
+
+### 4. V2X Spoofing
+Attackers send fake signals to vehicles and infrastructure.
+
+*Example:* a fake "emergency stop" broadcast causes a pile-up
+
+### 5. Data Poisoning
+Attackers manipulate training data used to build self-driving AI.
+
+*Example:* poisoned training data makes self-driving cars consistently run stop signs
+
+## Why AI specifically?
+ because simply AI operates at scale, handles massive data, makes critical decisions, and attacks can execute faster than humans can react (pros and cons of AI lol)
+ 
