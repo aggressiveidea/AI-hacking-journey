@@ -38,3 +38,8 @@
   https://www.morihamada.com/en/insights/newsletters/141011
 
 # Dat 02
+
+# Day 03
+
+**Input Manipulation & Prompt Injection**
+https://tryhackme.com/room/inputmanipulationpromptinjection
