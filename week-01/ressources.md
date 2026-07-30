@@ -37,3 +37,4 @@
 * **New UN Regulation on Automated Driving Systems (ADS) and Its Effects on Japanese Law**
   https://www.morihamada.com/en/insights/newsletters/141011
 
+# Dat 02
