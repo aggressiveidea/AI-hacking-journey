@@ -101,6 +101,9 @@ but i can see that, those advantages can be a good thing!! (obviously for an AI 
 I built a simple RAG system using:
 - **Embedding Model:** sentence transformers (all-MiniLM-L6-v2)
 - **Vector Search:** cosine similarity with scikit-learn
+```py 
+  cosine_similarity(A, B) = (A · B) / (||A|| × ||B||)
+  ```
 - **LLM:** groq API (Llama 3.1 8B)
 - **Storage:** in memory NumPy arrays
 
