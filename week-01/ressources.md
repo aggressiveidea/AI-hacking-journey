@@ -43,3 +43,6 @@
 
 **Input Manipulation & Prompt Injection**
 https://tryhackme.com/room/inputmanipulationpromptinjection
+
+**Gandalf**
+https://play.lakera.ai
