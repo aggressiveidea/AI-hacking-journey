@@ -21,8 +21,11 @@ yes it is the literal same thing but in AI safety context
 
 # Why STRIDE is Valuable
 
-**Structured**: thinking You don't miss anything
-**Common language**: Everyone understands the categories
-**Prioritization**: You know what to fix first
-**Documentation**: You can record and share findings
+**Structured**: thinking You don't miss anything.
+
+**Common language**: Everyone understands the categories.
+
+**Prioritization**: You know what to fix first.
+
+**Documentation**: You can record and share findings.
 
