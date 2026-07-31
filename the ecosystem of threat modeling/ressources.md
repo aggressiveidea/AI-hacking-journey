@@ -46,3 +46,16 @@ https://tryhackme.com/room/inputmanipulationpromptinjection
 
 **Gandalf**
 https://play.lakera.ai
+
+# Day 04 
+
+**Securing Generative AI with STRIDE Thread Modeling**
+https://medium.com/@michael.hannecke/securing-generative-ai-with-stride-thread-modeling-f8c91ad3e6bb
+
+# Day 05
+
+**Threat Modeling AI Systems: A Practical Path into AI Safety Research**
+https://medium.com/@its.nishaojha/threat-modeling-ai-systems-a-practical-path-into-ai-safety-research-1a82fe5df3e8
+
+**Threat modeling agentic AI: a scenario-driven approach**
+https://christian-schneider.net/blog/threat-modeling-agentic-ai/
