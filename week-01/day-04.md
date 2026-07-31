@@ -13,6 +13,8 @@ I stands for Information Disclosure
 D stands for Denial of Service
 E stands for Elevation of Privilege
 
+![Banner](../images/STRIDE.jpg)
+
 # Why is STRIDE Used?
 the biggest prob is that security is overwhelming 
 in fact, when you look at a system, there are infinite possible attacks. How do you know where to start? what is the solution to organize this chaos ?
@@ -21,11 +23,34 @@ yes it is the literal same thing but in AI safety context
 
 # Why STRIDE is Valuable
 
-**Structured**: thinking You don't miss anything.
+1. **Structured**: thinking You don't miss anything.
 
-**Common language**: Everyone understands the categories.
+2. **Common language**: Everyone understands the categories.
 
-**Prioritization**: You know what to fix first.
+3. **Prioritization**: You know what to fix first.
 
-**Documentation**: You can record and share findings.
+4. **Documentation**: You can record and share findings.
+
+# How i implemented the whole thing ? 
+
+## First : identifying assets 
+
+first question we should ask ourselves is **what are we protecting?**
+in our case we are protecting 4 assets, Documents (i used one only to test), vector database (for embeddings), LLM access (groq API in our case), user data
+
+
+## Second : asking the six questions
+
+for each asset, we should ask the following questions 
+
+```
+Can someone pretend to be authorized for this asset?
+Can someone modify this asset without permission?        
+Can someone deny they interacted with this asset?
+Can someone read this asset without permission?
+Can someone make this asset unavailable?
+Can someone get more access to this asset than they should?
+```      
+
+## Third : document mitigations
 
